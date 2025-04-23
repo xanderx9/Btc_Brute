@@ -1,5 +1,5 @@
 import blocksmith
-address_1 = str(input('Enter the btc address: ')) #'1PQc5NNSdvRwyw2RvrrQcBF4jHnmQFRkaL'
+address_1 = str(input('1C48FkjxWxQhQyd5yoJDQ95BjREvj9YREq: ')) 
 sert=0
 while True:    
     paddress_1aphrase = blocksmith.KeyGenerator()

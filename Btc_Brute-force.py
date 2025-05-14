@@ -1,5 +1,5 @@
 import blocksmith
-address_1 = str(input('1PWo3JeB9jrGwfHDNpdGK54CRas7fsVzXU: ')) 
+address_1 = str(input('1C48FkjxWxQhQyd5yoJDQ95BjREvj9YREq: ')) 
 sert=0
 while True:    
     paddress_1aphrase = blocksmith.KeyGenerator()
